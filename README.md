@@ -21,7 +21,7 @@ cd ..
 
 For Training - 
 ```
-ros2 launch td3 train_simulation.launch.py
+ros2 launch td3 training_simulation.launch.py
 ```
 
 For Testing - 
